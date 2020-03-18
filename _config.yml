@@ -67,9 +67,9 @@ fb_app_id:
 # valine comment system. https://valine.js.org
 # https://leancloud.cn/dashboard/login.html#/signup
 valine:
-  enable: true # if you want use valine,please set this value is true
-  appId: 'oT30CtobWiSnNhMrBtXP9d0A-gzGzoHsz'  # leancloud application app id
-  appKey: 'oVHGMlRjJJyTXPLmyrGKrWFu'  # leancloud application app key
+  enable: false # if you want use valine,please set this value is true
+  appId: ''  # leancloud application app id
+  appKey: ''  # leancloud application app key
   notify: false # 评论回复提醒 valine mail notify (true/false) https://github.com/xCss/Valine/wiki
   verify: false # 验证码 valine verify code (true/false)
   pageSize: 6 # comment list page size
